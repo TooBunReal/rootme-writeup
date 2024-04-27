@@ -1,4 +1,4 @@
-![image](https://github.com/TooBunReal/rootme-writeup/assets/89735990/5f0f5b70-fa16-4ad9-bb4f-65b557dffda9)![image](https://github.com/TooBunReal/rootme-writeup/assets/89735990/2b24af02-6011-4542-88c3-305abc82add6)# Node - Serialize
+# Node - Serialize
 
 - Link Challenge: http://challenge01.root-me.org:59067/
 
@@ -74,7 +74,7 @@ console.log("Serialized: \n" + serialize.serialize(y));
 
 ```a:2:{s:5:"login";s:10:"superadmin";s:8:"password";b:1;}```
 
-- Khi login bằng cookies của superadmin thì cuhngs ta đã có flag.
+- Khi login bằng cookies của superadmin thì chúng ta đã có flag.
 
 ![image](https://github.com/TooBunReal/rootme-writeup/assets/89735990/af93d14a-f267-4fb7-99e3-b1665fbdc58d)
 
